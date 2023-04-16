@@ -13,3 +13,12 @@ git config --global user.email "your.email@example.com"
 git push -u origin main
 git pull
 ```
+
+# Components inside src folder
+
+```
+* Data ingestion
+* Data transformation
+* Model Trainer
+
+```
