@@ -20,5 +20,5 @@ git pull
 * Data ingestion
 * Data transformation
 * Model Trainer
-
+* Model Pusher
 ```
